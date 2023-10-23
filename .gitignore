@@ -1,0 +1,5 @@
+
+Library/AnnotationManager
+*.log
+Library/ArtifactDB-lock
+Library/ArtifactDB
